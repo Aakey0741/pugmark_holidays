@@ -1,0 +1,34 @@
+{
+  "name": "Navigation Bar",
+  "brandLogo": "/assets/images/logo.png",
+  "navigation": [
+    {
+      "title": "Home",
+      "sectionId": "#homeSection"
+    },
+    {
+      "title": "About Us",
+      "sectionId": "#aboutUs"
+    },
+    {
+      "title": "Top Destinations",
+      "sectionId": "#destinationSection"
+    },
+    {
+      "title": "Hotels",
+      "sectionId": "#hotelSection"
+    },
+    {
+      "title": "Our Packages",
+      "sectionId": "#tourSection"
+    },
+    {
+      "title": "Reviews",
+      "sectionId": "#reviewsSection"
+    },
+    {
+      "title": "Contact Us",
+      "sectionId": "#footer"
+    }
+  ]
+}

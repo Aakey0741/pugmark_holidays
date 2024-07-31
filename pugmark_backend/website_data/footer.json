@@ -1,0 +1,69 @@
+{
+  "name": "Jainendra Dwivedi ",
+  "footer_logo": "/assets/images/logo.png",
+  "footer_address": "<b>C - 9/56</b> Rohini Sector 5,<br />Near SOM Bajar Sharma Sweets<br />Delhi - 110085",
+  "footer_nav_one_title": "PUGMARK",
+  "email": "pugmarkh@gmail.com",
+  "phone_number": "(+91)- 808-534-1344",
+  "footer_nav_one": [
+    {
+      "label": "Home",
+      "link": "#homeSection"
+    },
+    {
+      "label": "About Us",
+      "link": "#aboutUs"
+    },
+    {
+      "label": "Destination",
+      "link": "#destinationSection"
+    },
+    {
+      "label": "Hotels",
+      "link": "#hotelSection"
+    },
+    {
+      "label": "Tours",
+      "link": "#tourSection"
+    }
+  ],
+  "footer_nav_two_title": "Destinations",
+  "footer_nav_two": [
+    {
+      "label": "Jim Corbett",
+      "link": "#destinationSection"
+    },
+    {
+      "label": "Jaipur",
+      "link": "#destinationSection"
+    },
+    {
+      "label": "Golden Triangle",
+      "link": "#destinationSection"
+    },
+    {
+      "label": "Agra",
+      "link": "#destinationSection"
+    }
+  ],
+  "footer_nav_three_title": "Our Packages",
+  "footer_nav_three": [
+    {
+      "label": "Jim Corbett Package",
+      "link": "/"
+    },
+    
+    {
+      "label": "Delux Package",
+      "link": "/"
+    },
+    {
+      "label": "Lunury Package",
+      "link": "/"
+    },
+    {
+      "label": "Platinum Package",
+      "link": "/"
+    }
+  ]
+}

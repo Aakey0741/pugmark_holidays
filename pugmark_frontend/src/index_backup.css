@@ -1,0 +1,82 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+/*RESET STYLES*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app-container {
+  /* The app can only be the height of the viewport */
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  /* Do NOT allow the app to scroll off the screen */
+  overflow: hidden;
+}
+
+/* HEADER STYLES */
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2)
+}
+
+header h1 {
+  font-size: 1.2em;
+}
+
+header img {
+  height: 40px;
+}
+
+main {
+  /* Take up all free space on the screen between header and footer */
+  flex: 1 1 auto;
+  overflow-y: scroll;
+}
+
+/* FOOTER STYLES */
+footer {
+  /* Give the footer a shadow too */
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2)
+}
+
+footer nav ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+footer nav ul li {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+footer nav ul li h5 {
+  font-size: 14px;
+  margin: 0;
+}

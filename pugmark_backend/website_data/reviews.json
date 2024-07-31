@@ -1,0 +1,51 @@
+{
+  "name": "Love from our Clients❤️",
+  "h1": "",
+  "para": "",
+  "rating_icon": "/assets/images/rating-yellow-icon.png",
+  "rating_gray_icon": "/assets/images/rating-gray-icon.png",
+  "reviews": [
+    {
+      "name": "Geeta Verma,",
+      "caption": "geetu******@gmail.com",
+      "content": "Corbett safari bahut hi memorable tha! Bachhon ne sher ko dekha, dil khush ho gaya. Agle saal phir aana hai.",
+      "rating": 4.2,
+      "profile_image": "/assets/images/clients/testimonial.png"
+    },
+    {
+      "name": "Nisha Shah",
+      "caption": "shah******@gmail.com",
+      "content": "Our visit to Agra with TajTrips was unforgettable. The Taj Mahal is even more stunning in person. Must-visit! ",
+      "rating": 4.5,
+      "profile_image": "/assets/images/clients/testimonial.png"
+    },
+    {
+      "name": "Priya Kumari",
+      "caption": "priy******@gmail.com",
+      "content": "Great experience booking with YatraYojana! Easy navigation and excellent deals. Will definitely use again",
+      "rating": 4.5,
+      "profile_image": "/assets/images/clients/testimonial.png"
+    },
+    {
+      "name": "Rohit Gupta",
+      "caption": "rohi******@gmail.com",
+      "content": "Badiya site hai, bahut saare options aur deals milte hain. Maine Shimla ka trip kiya, sab kuchh aasaan aur smooth tha.",
+      "rating": 4.1,
+      "profile_image": "/assets/images/clients/testimonial.png"
+    },
+    {
+      "name": "Ankit Jain",
+      "caption": "ajain******@gmail.com",
+      "content": "Highly recommend TripTreats! Found amazing deals for Kerala. Smooth booking process and great customer service",
+      "rating": 4,
+      "profile_image": "/assets/images/clients/testimonial.png"
+    },
+    {
+      "name": "Amit Patel",
+      "caption": "amit******@gmail.com",
+      "content": "Kafi acchi deals milti hain, maine jaipur ke liye plan kiya tha. Sab kuchh acha tha aur booking bhi jaldi ho gayi. ",
+      "rating": 4.9,
+      "profile_image": "/assets/images/clients/testimonial.png"
+    }
+  ]
+}

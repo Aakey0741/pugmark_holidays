@@ -1,0 +1,75 @@
+{
+  "name": "Slider Section",
+  "slides": [
+    {
+      "name": "slider-01",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/1.jpg"
+    },
+    {
+      "name": "slider-02",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/2.jpg"
+    },
+    {
+      "name": "slider-03",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/3.jpg"
+    },
+    {
+      "name": "slider-04",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/4.jpg"
+    },
+    {
+      "name": "slider-05",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/5.jpg"
+    },
+    {
+      "name": "slider-06",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/6.jpg"
+    },
+    {
+      "name": "slider-07",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/7.jpg"
+    },
+    {
+      "name": "slider-08",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/8.jpg"
+    },
+    {
+      "name": "slider-09",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/9.jpg"
+    },
+    {
+      "name": "slider-10",
+      "title": "Discover Your Next Great Adventure...",
+      "heading": "Creating memories that last...",
+      "caption": "Embark on Unforgettable Journeys, Luxuriate in World-Class Hotels, and Book the Ultimate Adventure Packages Today!",
+      "image": "/assets/images/slider/10.jpg"
+    }
+  ]
+}

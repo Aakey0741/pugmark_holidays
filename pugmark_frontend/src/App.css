@@ -1,0 +1,334 @@
+@import url("assets/css/nice-select.css");
+@import url("assets/css/responsive.css");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 700;
+  color: #111111;
+  margin: 0px;
+  transition: all 500ms ease;
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+p {
+  position: relative;
+  font-family: "Inter", sans-serif;
+  color: #2c2929;
+  font-weight: 400;
+  margin: 0px;
+  transition: all 500ms ease;
+}
+
+a {
+  text-decoration: none;
+  transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -webkit-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+}
+
+@import url("assets/css/banner.css");
+@import url("assets/css/booking-form.css");
+@import url("assets/css/aboutus.css");
+@import url("assets/css/chooseus.css");
+@import url("assets/css/tours.css");
+@import url("assets/css/place.css");
+@import url("assets/css/testimonial.css");
+@import url("assets/css/category.css");
+
+.sticky-top .navbar-nav li > a.nav-link {
+  padding: 16px;
+  color: #000;
+}
+
+.offcanvas {
+  --bs-offcanvas-width: 280px;
+}
+
+.navbar-nav li > a.nav-link {
+  position: relative;
+  display: block;
+  font-size: 14px;
+  line-height: 30px;
+  padding: 15px 0px;
+  font-weight: 600;
+  font-family: "Inter", sans-serif;
+  opacity: 1;
+  text-transform: uppercase;
+  z-index: 1;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -ms-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.offcanvas:not(.show) .navbar-nav li > a.nav-link {
+  padding: 25px 16px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
+
+.pb-90 {
+  padding-bottom: 90px;
+}
+
+.pb-110 {
+  padding-bottom: 110px;
+}
+.pb-85 {
+  padding-bottom: 85px;
+}
+.pt-50 {
+  padding-top: 50px;
+}
+.pt-60 {
+  padding-top: 60px;
+}
+.pt-70 {
+  padding-top: 70px;
+}
+.pt-80 {
+  padding-top: 80px;
+}
+.pt-90 {
+  padding-top: 90px;
+}
+.pt-100 {
+  padding-top: 100px;
+}
+.pt-110 {
+  padding-top: 110px;
+}
+.pt-120 {
+  padding-top: 120px;
+}
+.pt-130 {
+  padding-top: 130px;
+}
+.pt-140 {
+  padding-top: 140px;
+}
+.pt-150 {
+  padding-top: 150px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.mb-35 {
+  margin-bottom: 35px;
+}
+
+.mr-60 {
+  margin-right: 60px;
+}
+
+.mb-60 {
+  margin-bottom: 60px;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
+
+.pb-65 {
+  padding-bottom: 65px;
+}
+
+.pb-70 {
+  padding-bottom: 70px;
+}
+
+.sec-title {
+  position: relative;
+  display: block;
+}
+
+.sec-title .sub-title {
+  position: relative;
+  display: block;
+  font-size: 32px;
+  line-height: 24px;
+  font-family: "Seaweed Script", cursive;
+  margin-bottom: 20px;
+}
+
+.sec-title .sub-title {
+  color: #fe8828;
+}
+
+.sec-title h2 {
+  position: relative;
+  display: block;
+  font-size: 42px;
+  line-height: 50px;
+  font-weight: 700;
+  margin: 0px;
+}
+
+.chooseus-block-one .inner-box .icon-box {
+  color: #fe8828;
+}
+
+.tours-block-one .inner-box .lower-content h5 {
+  color: #fe8828;
+}
+
+.tours-section .tab-btns li.active-btn,
+.tours-section .tab-btns li:hover {
+  background: #fe8828;
+}
+
+.dots-style-one .owl-dots .owl-dot.active span,
+.dots-style-one .owl-dots .owl-dot span:hover {
+  border-color: #fe8828 !important;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: #fe8828 !important;
+}
+/** main-footer **/
+
+.main-footer {
+  position: relative;
+  background: #191919;
+}
+
+.main-footer .pattern-layer {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 560px;
+  background-repeat: repeat-x;
+  background-position: bottom center;
+  animation: slide 60s linear infinite;
+  -webkit-animation: slide 60s linear infinite;
+}
+
+.main-footer .widget-section {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.main-footer .logo-widget {
+  position: relative;
+  max-width: 330px;
+}
+
+.main-footer p,
+.main-footer a {
+  color: #fff;
+}
+
+.main-footer a:hover {
+}
+
+.main-footer .logo-widget .footer-logo {
+  margin-bottom: 19px;
+}
+
+.main-footer .logo-widget p {
+  margin-bottom: 30px;
+}
+
+.main-footer .logo-widget .info-list li {
+  position: relative;
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+
+.main-footer .logo-widget .info-list li:last-child {
+  margin-bottom: 0px;
+}
+
+.main-footer .widget-title {
+  position: relative;
+  display: block;
+  margin-bottom: 25px;
+}
+
+.main-footer .widget-title h3 {
+  font-size: 24px;
+  line-height: 24px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.main-footer .links-widget .links-list li {
+  position: relative;
+  display: block;
+  font-size: 16px;
+  line-height: 42px;
+}
+
+.footer-bottom {
+  position: relative;
+  background: #191919;
+  width: 100%;
+  padding: 24px 0px;
+}
+
+.footer-bottom .bottom-inner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-bottom .bottom-inner .copyright p a:hover {
+  text-decoration: underline;
+}
+
+.footer-bottom .social-links {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.footer-bottom .social-links li {
+  margin-right: 20px;
+}
+
+.footer-bottom .social-links li:last-child {
+  margin: 0px !important;
+}
+
+.footer-bottom .social-links li a {
+  position: relative;
+  display: inline-block;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.footer-bottom .social-links li a:hover {
+}
+
+.footer-bottom .bottom-inner .copyright p a {
+  color: #fe8828;
+}
+
+.main-footer a:hover {
+  color: #fe8828;
+}
+
+@import url("assets/css/color.css");

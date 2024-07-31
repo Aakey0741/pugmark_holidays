@@ -1,0 +1,37 @@
+{
+  "name": "Why Choose Pugmark?",
+  "h1": "",
+  "para": "",
+  "whyChoosePoints": [
+    {
+      "title": "Unbeatable Prices",
+      "caption": "Discover Unbeatable Prices for Your Dream Getaway!",
+      "icon": "icon-15"
+    },
+    {
+      "title": "100% Customer Satisfaction",
+      "caption": "Experience the essence of wanderlust with our commitment to 100% customer satisfaction.",
+      "icon": "icon-16"
+    },
+    {
+      "title": "Exclusive Deals",
+      "caption": "Discover Exclusive Deals for Unforgettable Journeys!",
+      "icon": "icon-16"
+    },
+    {
+      "title": "Handpicked Accommodations",
+      "caption": "Discover Our Handpicked Accommodations for Your Perfect Getaway",
+      "icon": "icon-17"
+    },
+    {
+      "title": "Tailored Luxury Packages",
+      "caption": "Elevate your travel experience with our customized luxury packages",
+      "icon": "icon-18"
+    },
+    {
+      "title": "Pricing Transparency",
+      "caption": "Clear and Transparent Pricing for Your Travel Needs",
+      "icon": "icon-19"
+    }
+  ]
+}

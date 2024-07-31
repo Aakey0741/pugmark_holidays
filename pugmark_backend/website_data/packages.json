@@ -1,0 +1,81 @@
+{
+  "name": "Featured Tours",
+  "subTitle": "Tour Packages",
+  "h1": "",
+  "para": "",
+  "rating_icon": "/assets/images/rating-yellow-icon.png",
+  "packages": [
+    {
+      "name": "Jim Corbett Package",
+      "caption": "Jungle Safari",
+      "rating": "4.9",
+      "price": "3500",
+      "duration": "Starting From 2 Nights / 2 Days",
+      "more-info-link": "/",
+      "image": "/assets/images/tour/tour-1.jpg"
+    },
+    {
+      "name": "Golden Triangle Tour",
+      "caption": "Delhi Agra Jaipur",
+      "rating": "4.9",
+      "price": "3500",
+      "duration": "Starting From 2 Nights / 2 Days",
+      "more-info-link": "/",
+      "image": "/assets/images/tour/tour-2.jpg"
+    },
+    {
+      "name": "Uttarakhand",
+      "caption": "Rishikesh ,Kedarnath, Nainital, Mussoorie",
+      "rating": "4.9",
+      "price": "3500",
+      "duration": "Starting From 2 Nights / 2 Days",
+      "more-info-link": "/",
+      "image": "/assets/images/tour/tour-3.jpg"
+    },
+    {
+      "name": "Rajasthan",
+      "caption": "Udaipur, Jaisalmer, Mount Abu",
+      "rating": "4.9",
+      "price": "3500",
+      "duration": "Starting From 2 Nights / 2 Days",     
+      "more-info-link": "/",
+      "image": "/assets/images/tour/tour-4.jpg"
+    },
+    {
+      "name": "Goa",
+      "caption": "Calangute Beach, Anjuna Beach, Baga Beach",
+      "rating": "4.9",
+      "price": "3500",
+      "duration": "Starting From 2 Nights / 2 Days", 
+      "more-info-link": "/",
+      "image": "/assets/images/tour/tour-5.jpg"
+    },
+    {
+      "name": "Kerala",
+      "caption": "Munnar, Alleppey, Kochi",
+      "rating": "4.9",
+      "price": "3500",
+      "duration": "Starting From 2 Nights / 2 Days", 
+      "more-info-link": "/",
+      "image": "/assets/images/tour/tour-6.jpg"
+    },
+    {
+      "name": " Himachal Pradesh",
+      "caption": "Shimla, Kullu-Manali, Dharamshala",
+      "rating": "4.9",
+      "price": "3500",
+      "duration": "Starting From 2 Nights / 2 Days", 
+      "more-info-link": "/",
+      "image": "/assets/images/tour/tour-7.jpg"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "caption": "Varanasi,  Mathura and Vrindavan, Ayodhya",
+      "rating": "4.9",
+      "price": "3500",
+      "duration": "Starting From 2 Nights / 2 Days", 
+      "more-info-link": "/",
+      "image": "/assets/images/tour/tour-8.jpg"
+    }
+  ]
+}

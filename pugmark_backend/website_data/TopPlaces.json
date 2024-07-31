@@ -1,0 +1,31 @@
+{
+  "name": "Top Visited Destinations",
+  "h1": "",
+  "para": "",
+  "topPlaces": [
+    {
+      "title": "Delhi",
+      "url": "/assets/images/resource/place-1.jpg"
+    },
+    {
+      "title": "Jim Corbett",
+      "url": "/assets/images/resource/place-2.jpg"
+    },
+    {
+      "title": "Agra",
+      "url": "/assets/images/resource/place-3.jpg"
+    },
+    {
+      "title": "Rishikesh",
+      "url": "/assets/images/resource/place-4.jpg"
+    },
+    {
+      "title": "Kochi",
+      "url": "/assets/images/resource/place-5.jpg"
+    },
+    {
+      "title": "Jaipur",
+      "url": "/assets/images/resource/place-6.jpg"
+    }
+  ]
+}

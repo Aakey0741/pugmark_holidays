@@ -1,0 +1,24 @@
+{
+  "name": "Short header",
+  "contactUsTitle": "Contact Us",
+  "contactUsNumber": "+91-8085341344",
+  "followUsTitle": "Follow Us",
+  "copyRightLine": "Copyright &copy; 2024 <a href='/'>PUGMARK</a>, Inc. All Rights Reserved",
+  "followUs": [
+    {
+      "name": "Facebook",
+      "icon": "facebook",
+      "link": "https://www.facebook.com/profile.php?id=100080662374827&mibextid=ZbWKwL"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram",
+      "link": "https://www.instagram.com/pugmarkholiday?utm_source=qr&igsh=MWQ5YTNvcHQzMXA5cg=="
+    },
+    {
+      "name": "Whatsapp",
+      "icon": "whatsapp",
+      "link": "https://wa.me/+918085341344?text=Hello%20there!"
+    }
+  ]
+}
